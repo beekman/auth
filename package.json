@@ -7,7 +7,8 @@
     "test": "jest --verbose --runInBand",
     "test:watch": "npm run test -- --watch",
     "start": "node server.js",
-    "start:watch": "nodemon server.js"
+    "start:watch": "nodemon server.js",
+    "lint": "eslint /Users/djbeeker/alchemy/career-track/auth/"
   },
   "jest": {
     "testEnvironment": "node"

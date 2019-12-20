@@ -12,7 +12,7 @@
     "eslint:recommended"
   ],
   "rules": {
-    "no-console": "warn",
+    "no-console": "off",
     "indent": [
       "error",
       2,
@@ -38,7 +38,7 @@
     ],
     "comma-spacing": "error",
     "space-before-function-paren": [
-      "off",
+      "error",
       "never"
     ],
     "eol-last": [
