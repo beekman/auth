@@ -38,7 +38,7 @@
     ],
     "comma-spacing": "error",
     "space-before-function-paren": [
-      "error",
+      "off",
       "never"
     ],
     "eol-last": [
